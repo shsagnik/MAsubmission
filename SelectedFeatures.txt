@@ -1,0 +1,14 @@
+Auxiliary Boilers Feed Water Header Pressure
+Heat Recovery System Header Mass Flow
+Heat Recovery System Header Mass Flow.1
+Lube Oil Tank Temperature
+Motor Current Phase A
+Motor Voltage
+Pump Journal 1 Bearing Temperature
+Pump Journal 2 Bearing Temperature
+Pump Shaft Speed
+Pump Suction Pressure 1
+Pump Suction Pressure 2
+Pump Suction Strainer Differential Pressure
+Pump Suction Temperature
+Pump Thrust Bearing Temperature 1
